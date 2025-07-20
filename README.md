@@ -10,4 +10,4 @@ A desktop-based **Hostel Management System** built using **Python** and **Tkinte
 - 💰 **Fee Tracking** – Monitor hostel fee payments  
 - 📅 **History & Reports** – View room occupancy and payment history  
 - 🔐 **Login System** – Secure admin access  
-- 💾 **Data Persistence** – Uses SQLite3 for storing data locally
+- 💾 **Data Persistence** – Uses Text File for storing data locally
